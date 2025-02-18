@@ -39,7 +39,7 @@
 
 ## 🚀 Coding Profiles  
 
-[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/)  
+[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/anilsamineni1311) 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/anilbabu/)  
 [![HackerEarth](https://img.shields.io/badge/HackerEarth-323754?style=for-the-badge&logo=hackerearth&logoColor=white)](https://www.hackerearth.com/@samineni1/) 
 
@@ -47,7 +47,7 @@
 
 ## 📫 Connect with Me  
 📧 anilbabu1325@gmail.com  
-🌐 [LinkedIn](https://www.linkedin.com/in/anil-babu-samineni-626a9a178)  
+🌐 [LinkedIn](https://www.linkedin.com/in/anil-babu-samineni-626a9a178)
 🐙 [GitHub](https://github.com/AnilSami)  
 
 ---
