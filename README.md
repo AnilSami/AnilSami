@@ -1,55 +1,69 @@
-# Hi there! I'm Anil Babu Samineni 👋  
+### Hi there, I'm Anil Babu Samineni! 👋
 
-![Header GIF](https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif)  
+![GitHub Banner](https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif)
 
-## 🚀 About Me  
-🎓 Master's in Computer Science @ University of South Florida  
-💻 AI & ML Enthusiast | RPA | Automation | Web Dev  
-📱 Currently working on **Whisper AI Deployment on Embedded Systems**  
-🔍 Exploring AI Coding Tools & Speech-to-Text Solutions  
+🚀 **AI & Software Engineer | Whisper AI Enthusiast | ML & Data Science Passionate**  
+📍 **Tampa, FL | Master’s in Computer Science - USF**  
+📩 **[Email Me](mailto:anilbabu1325@gmail.com) | [LinkedIn](https://www.linkedin.com/in/anil-babu-samineni-626a9a178/)**  
 
 ---
 
-## 🛠️ Skills & Technologies  
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)  
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)  
+### 🔥 About Me
+- 🏗 Currently working on **Whisper AI Deployment on Embedded Systems**
+- 🤖 Support Analyst @ **TCS** (Handled RPA bots, Automation Anywhere, SAP)
+- 🎓 AI/ML Intern @ **Lillup** (Speech-to-Text Tech, OpenAI Canevas, AI Code Tools)
+- 📊 Strong in **Data Science, Neural Networks, RPA & Prompt Engineering**
 
 ---
 
-## 🔥 Featured Projects  
+### 💻 Tech Stack & Tools
 
-### 🧩 AR Jigsaw Puzzle Game  
-🎮 **Tech:** Augmented Reality | Unity | C#  
-🔗 [YouTube Demo](https://www.youtube.com/) | [GitHub Repo](https://github.com/AnilSami/AR-Jigsaw-Puzzle)  
-
-![AR Game](https://media.giphy.com/media/l1J9EdzfOSgfyueLm/giphy.gif)  
-
-### 🔍 Lip Reading using 2D CNN  
-🗣️ **Tech:** Deep Learning | OpenCV | Python  
-🔗 [GitHub Repo](https://github.com/AnilSami/Lip-Reading-CNN)  
-
-![Lip Reading](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)  
+![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white) 
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) 
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 ---
 
-## 🚀 Coding Profiles  
+### 📈 GitHub Stats
 
-[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/anilsamineni1311) 
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/anilbabu/)  
-[![HackerEarth](https://img.shields.io/badge/HackerEarth-323754?style=for-the-badge&logo=hackerearth&logoColor=white)](https://www.hackerearth.com/@samineni1/) 
-
----
-
-## 📫 Connect with Me  
-📧 anilbabu1325@gmail.com  
-🌐 [LinkedIn](https://www.linkedin.com/in/anil-babu-samineni-626a9a178)
-🐙 [GitHub](https://github.com/AnilSami)  
+![Anil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnilSami&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnilSami&layout=compact&theme=radical)
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=AnilSami&style=flat-square&color=blue)
+### 🚀 Featured Projects
+
+#### 🧩 AR Jigsaw Puzzle Game
+![Game GIF](https://media.giphy.com/media/3o7TKU8RvQuomFfUUU/giphy.gif)  
+📌 **Tech Used:** OpenCV, Python, Augmented Reality  
+🎥 [YouTube Video](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+
+#### 🧠 Lip Reading using 2D CNN
+📌 **Tech Used:** Deep Learning, CNN, OpenCV  
+🔗 [Project Repository](https://github.com/AnilSami/Lip-Reading-2D-CNN)
+
+---
+
+### 🏆 Coding Profiles
+
+- 🏅 **HackerRank:** [Profile](https://www.hackerrank.com/AnilSami)
+- 💡 **LeetCode:** [Profile](https://leetcode.com/AnilSami/)
+- 🔥 **HackerEarth:** [Profile](https://www.hackerearth.com/@AnilSami)
+
+---
+
+### 📫 Let's Connect
+
+📧 **Email:** [anilbabu1325@gmail.com](mailto:anilbabu1325@gmail.com)  
+💼 **LinkedIn:** [anil-babu-samineni](https://www.linkedin.com/in/anil-babu-samineni-626a9a178/)  
+🐦 **Twitter:** [@AnilBabuSami](https://twitter.com/AnilBabuSami)
+
+![Thanks GIF](https://media.giphy.com/media/xT0GqzP5JBPx93lQ6M/giphy.gif)
+
+---
+
+⭐ **Feel free to explore my repositories and contribute!** 😊
